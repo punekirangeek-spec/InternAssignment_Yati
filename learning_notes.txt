@@ -4,11 +4,9 @@ Local Enviournment:
  >Postman installed now
  >PosgreSQL installed now
  >Flask setup now
- 
- Prompting:
 
+Prompting:
  >Getting Enviournment setup verified and establishing project idea:
-
    i want to create a CRUD API on employee data:
     (Employee ID
     * First Name
@@ -19,18 +17,44 @@ Local Enviournment:
     * Designation
     * Salary
     * Joining Date)
-     for that i want to use Postman, GitHub and Python i dont want to write 
-     even a single line of code you will be the one doing all the coding i will be the one 
+     for that i want to use Postman, GitHub and Python i dont want to write
+     even a single line of code you will be the one doing all the coding i will be the one
      managing the enviournment.
-
-    I have made a Git repo and currently it has a txt file that i have pushed it is called learning_notes 
-    iam going to be saving all the important prompts and how the setup is going basically loging progress 
-    in there, now i want to get started on making the API but am unshur how i can make all of the diffrent 
-    components work togeather i have used flask once before but am unshur how it worked guide me through the 
+    I have made a Git repo and currently it has a txt file that i have pushed it is called learning_notes
+    iam going to be saving all the important prompts and how the setup is going basically loging progress
+    in there, now i want to get started on making the API but am unshur how i can make all of the diffrent
+    components work togeather i have used flask once before but am unshur how it worked guide me through the
     process of setup and list the components that i might need that i havent mentioned.
-
-
-    Lets start with listing what i will need and how they will be conected in a check list of all the 
-    components that i need to install and have installed. As i said i want to use Python,Postman and 
+    Lets start with listing what i will need and how they will be conected in a check list of all the
+    components that i need to install and have installed. As i said i want to use Python,Postman and
     maybe PosgreSQL if it is necessary (tell me if it is not required if it is then add it to the list
     of installations) once my local enviournment is totaly set up we will move to writing code.
+
+ >Requesting the code:
+    everything is up and running lets start with the code
+
+ >Connecting PyCharm to GitHub:
+    right now my learning_notes file is in visual and the rest of this iam doing in pycharm
+    and i already set up all the pip install files in pycharm can connect my pycharm to git
+    instead of vsc and also can i take the notes file over to pycharm as well
+
+ >Creating project files directly in PyCharm:
+    creating files i can just left click then go to files and give them names and then
+    copy paste directly all in pycharm itself right
+
+ >Adding README to the project:
+    alr all done now i want to add README.md containing:
+    * Project overview
+    * Steps to run the project
+    * API endpoints
+    * Database used
+    * Dependencies
+
+ >Adding output screenshots to the project:
+    alr all done now i want to add the screenshots of output into a new file
+    so people can see how the output looks
+
+ >Updating learning notes with major prompts:
+    but before that i want to update my learning notes where i have (existing content)
+    currently i want to add the prompts that i have given to you through out the process
+    only the major ones that actually helped no like bug fixing and all
