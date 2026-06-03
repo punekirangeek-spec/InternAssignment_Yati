@@ -2,11 +2,13 @@ Local Enviournment:
  >Python already installed
  >Git installed now
  >Postman installed now
-
+ >PosgreSQL installed now
+ >Flask setup now
+ 
  Prompting:
 
  >Getting Enviournment setup verified and establishing project idea:
- 
+
    i want to create a CRUD API on employee data:
     (Employee ID
     * First Name
