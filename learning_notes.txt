@@ -2,3 +2,33 @@ Local Enviournment:
  >Python already installed
  >Git installed now
  >Postman installed now
+
+ Prompting:
+
+ >Getting Enviournment setup verified and establishing project idea:
+ 
+   i want to create a CRUD API on employee data:
+    (Employee ID
+    * First Name
+    * Last Name
+    * Email
+    * Phone Number
+    * Department
+    * Designation
+    * Salary
+    * Joining Date)
+     for that i want to use Postman, GitHub and Python i dont want to write 
+     even a single line of code you will be the one doing all the coding i will be the one 
+     managing the enviournment.
+
+    I have made a Git repo and currently it has a txt file that i have pushed it is called learning_notes 
+    iam going to be saving all the important prompts and how the setup is going basically loging progress 
+    in there, now i want to get started on making the API but am unshur how i can make all of the diffrent 
+    components work togeather i have used flask once before but am unshur how it worked guide me through the 
+    process of setup and list the components that i might need that i havent mentioned.
+
+
+    Lets start with listing what i will need and how they will be conected in a check list of all the 
+    components that i need to install and have installed. As i said i want to use Python,Postman and 
+    maybe PosgreSQL if it is necessary (tell me if it is not required if it is then add it to the list
+    of installations) once my local enviournment is totaly set up we will move to writing code.
