@@ -54,7 +54,3 @@ Prompting:
     alr all done now i want to add the screenshots of output into a new file
     so people can see how the output looks
 
- >Updating learning notes with major prompts:
-    but before that i want to update my learning notes where i have (existing content)
-    currently i want to add the prompts that i have given to you through out the process
-    only the major ones that actually helped no like bug fixing and all
