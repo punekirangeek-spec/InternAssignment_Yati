@@ -1,0 +1,4 @@
+Local Enviournment:
+ >Python already installed
+ >Git installed now
+ >Postman installed now
